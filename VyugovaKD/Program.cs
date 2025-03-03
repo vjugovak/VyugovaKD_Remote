@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Вьюгова Ксения Дмитриевна, Ам-1-24
 Console.WriteLine("Hello, World!");

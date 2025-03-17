@@ -8,3 +8,8 @@ static int Y (int x)
 }
 // реализована подзадача 2
 //solve task2
+static double Sqr(double X)
+{
+    return X * X;
+}
+

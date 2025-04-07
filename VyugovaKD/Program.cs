@@ -11,4 +11,4 @@ static double Sqr(double X)
 {
     return X * X;
 }
-
+//solve task1
